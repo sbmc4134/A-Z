@@ -1,0 +1,7 @@
+{
+  "name": "Expense Tracker",
+  "description": "Daily expense manager with category visual charts, budgeting, monthly PDF reports export, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
